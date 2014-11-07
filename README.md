@@ -1,4 +1,4 @@
-codeigniter-htaccess
+Codeigniter .htaccess
 ====================
 
-htaccess for top level domain &amp; subdomain
+This is example htaccess for top level domain &amp; subdomain
